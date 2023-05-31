@@ -1,4 +1,4 @@
-# mrturizo-machine-learning-miniprojects
+# EKG-machine-learning-projects
 
-this repository contains machine learning little projects worked in a course of fundamentals of IA
-include projects about simple and multiple linear regression, binary and multi-class classification, clustering, ANN's, Deep learning and more.
+Classification of complex arrhythmia types from the MIT-BIH dataset using two neural network architectures (DNN & CNN).
+Putting in practice the use of ANN's and Deep learning.
